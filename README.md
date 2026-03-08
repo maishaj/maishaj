@@ -1,3 +1,4 @@
+![Banner](Black and Blue Modern Web Developer Presentation.png)
 # 💫 About Me:
 👋 Hi, I'm Maisha!<br>🎓 Computer Science Student | Full-Stack Developer<br><br>I am a Computer Science student with a passion for architecting and building scalable web applications. I spend most of my time diving deep into the MERN stack and transforming complex logic into clean, functional, and user-centric code.<br>🚀 What I’m up to<br>🎓 Currently pursuing my degree in Computer Science.<br>💻 Building full-stack projects using MongoDB, Express.js, React, and Node.js.<br>🛠️ Exploring the intricacies of RESTful APIs and state management.<br>📚 Always learning—currently sharpening my skills in Next.js .
 
